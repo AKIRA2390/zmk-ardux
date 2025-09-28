@@ -1,0 +1,7 @@
+file_format: "1"
+id: wrist_artesy
+name: Wrist Artesy
+type: shield
+url: https://github.com/AKIRA2390/zmk-ardux
+features:
+  - keys

@@ -1,0 +1,6 @@
+if SHIELD_WRISTARTESY
+
+config ZMK_KEYBOARD_NAME
+    default "Wrist Artesy"
+
+endif
