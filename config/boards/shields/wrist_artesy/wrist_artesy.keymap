@@ -14,7 +14,7 @@
 // ARTS Row
 #define KEY_A 3
 #define KEY_R 4
-#define KEY_T 5
+#define KEY_T 0
 #define KEY_S 6
 // EYIO Row
 #define KEY_E 10
