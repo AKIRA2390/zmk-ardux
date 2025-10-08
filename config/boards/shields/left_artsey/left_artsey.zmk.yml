@@ -1,6 +1,6 @@
 file_format: "1"
-id: left_artesy
-name: Left Artesy
+id: left_artsey
+name: Left ArtSey
 type: shield
 url: https://github.com/AKIRA2390/zmk-ardux
 features:
