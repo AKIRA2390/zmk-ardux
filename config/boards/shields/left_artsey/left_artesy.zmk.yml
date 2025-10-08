@@ -1,0 +1,7 @@
+file_format: "1"
+id: left_artesy
+name: Left Artesy
+type: shield
+url: https://github.com/AKIRA2390/zmk-ardux
+features:
+  - keys

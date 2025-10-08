@@ -1,0 +1,6 @@
+if SHIELD_LEFTARTSEY
+
+config ZMK_KEYBOARD_NAME
+    default "Left Artsey"
+
+endif

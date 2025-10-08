@@ -13,6 +13,8 @@ jobs:
         include:
           - board: seeeduino_xiao_ble
             shield: wrist_artesy
+          - board: seeeduino_xiao_rp2040
+            shield: wrist_artesy
     steps:
       - name: Checkout
         uses: actions/checkout@v4
