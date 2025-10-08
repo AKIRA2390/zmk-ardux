@@ -11,8 +11,8 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          # - board: seeeduino_xiao_ble
-          #   shield: wrist_artesy
+          - board: seeeduino_xiao_ble
+            shield: wrist_artesy
           - board: seeeduino_xiao_rp2040
             shield: left_artsey
     steps:
